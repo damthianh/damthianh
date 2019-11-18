@@ -1,0 +1,233 @@
+[{
+    "time": 2855,
+    "timeup": false,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091639009
+}, {
+    "time": 3906,
+    "timeup": false,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091641181
+}, {
+    "time": 12199,
+    "timeup": false,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091654194
+}, {
+    "time": 17761,
+    "timeup": false,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091659765
+}, {
+    "time": 3547,
+    "timeup": false,
+    "offer": 12,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091663901
+}, {
+    "time": 7910,
+    "timeup": false,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091669186
+}, {
+    "time": 2207,
+    "timeup": false,
+    "offer": 12,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1574091672454
+}, {
+    "time": 3529,
+    "timeup": false,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1574091674805
+}, {
+    "time": 4683,
+    "timeup": false,
+    "offer": 1,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 3
+    },
+    "timestamp": 1574091681957
+}, {
+    "time": 7988,
+    "timeup": false,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 3
+    },
+    "timestamp": 1574091683910
+}, {
+    "time": 1873,
+    "timeup": false,
+    "offer": 2,
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 4
+    },
+    "timestamp": 1574091686534
+}, {
+    "time": 2393,
+    "timeup": false,
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 4
+    },
+    "timestamp": 1574091687670
+}, {
+    "time": 27011,
+    "timeup": false,
+    "id": "questionnaire",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "alreadyParticipated": {
+            "id": "alreadyParticipated",
+            "choice": "0",
+            "time": 3771,
+            "nClicks": 1,
+            "value": "Yes",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "mobility": {
+            "id": "mobility",
+            "choice": "0",
+            "time": 9706,
+            "nClicks": 1,
+            "value": "Low",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "strategy": {
+            "id": "strategy",
+            "choice": "random",
+            "time": 20464,
+            "nClicks": 1,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "freetext": "I have nothing to say",
+    "done": true,
+    "player": "783165819035165",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091715673
+}, {
+    "time": 42666,
+    "timeup": false,
+    "id": "questionnaire",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "alreadyParticipated": {
+            "id": "alreadyParticipated",
+            "choice": "0",
+            "time": 31331,
+            "nClicks": 1,
+            "value": "Yes",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "mobility": {
+            "id": "mobility",
+            "choice": "1",
+            "time": 31969,
+            "nClicks": 1,
+            "value": "High",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "strategy": {
+            "id": "strategy",
+            "choice": "egoist",
+            "time": 33253,
+            "nClicks": 1,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "freetext": "I have nothing to say",
+    "done": true,
+    "player": "558315296167678",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574091732946
+}]

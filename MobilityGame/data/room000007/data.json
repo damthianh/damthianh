@@ -1,0 +1,259 @@
+[{
+    "time": 2510,
+    "timeup": false,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093285942
+}, {
+    "time": 3951,
+    "timeup": false,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 1,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093288249
+}, {
+    "time": 3294,
+    "timeup": false,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093293131
+}, {
+    "time": 6425,
+    "timeup": false,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 2,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093296257
+}, {
+    "time": 5475,
+    "timeup": false,
+    "offer": 5,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093303773
+}, {
+    "time": 9312,
+    "timeup": false,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093306296
+}, {
+    "time": 2704,
+    "timeup": false,
+    "offer": 100,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1574093310432,
+    "originalOffer": 0
+}, {
+    "time": 6995,
+    "timeup": false,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 2
+    },
+    "timestamp": 1574093316295
+}, {
+    "time": 3640,
+    "timeup": false,
+    "offer": 12,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 3
+    },
+    "timestamp": 1574093321910
+}, {
+    "time": 7995,
+    "timeup": false,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 3
+    },
+    "timestamp": 1574093327294
+}, {
+    "time": 3371,
+    "timeup": false,
+    "offer": 100,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 4
+    },
+    "timestamp": 1574093333674,
+    "originalOffer": 0
+}, {
+    "time": 8995,
+    "timeup": false,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 4
+    },
+    "timestamp": 1574093338095
+}, {
+    "time": 4005,
+    "timeup": false,
+    "offer": 100,
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 5
+    },
+    "timestamp": 1574093342833,
+    "originalOffer": 0
+}, {
+    "time": 5885,
+    "timeup": false,
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 3,
+        "step": 1,
+        "round": 5
+    },
+    "timestamp": 1574093346184
+}, {
+    "time": 6336,
+    "timeup": false,
+    "id": "questionnaire",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "alreadyParticipated": {
+            "id": "alreadyParticipated",
+            "choice": "0",
+            "time": 2839,
+            "nClicks": 1,
+            "value": "Yes",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "mobility": {
+            "id": "mobility",
+            "choice": "1",
+            "time": 3367,
+            "nClicks": 1,
+            "value": "High",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "strategy": {
+            "id": "strategy",
+            "choice": "random",
+            "time": 4001,
+            "nClicks": 1,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "freetext": "12",
+    "done": true,
+    "player": "559888891983303",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093353408
+}, {
+    "time": 10296,
+    "timeup": false,
+    "id": "questionnaire",
+    "order": [
+        0,
+        1,
+        2
+    ],
+    "forms": {
+        "alreadyParticipated": {
+            "id": "alreadyParticipated",
+            "choice": "1",
+            "time": 6653,
+            "nClicks": 1,
+            "value": "No",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "mobility": {
+            "id": "mobility",
+            "choice": "2",
+            "time": 7285,
+            "nClicks": 1,
+            "value": "No opinion",
+            "isCorrect": true,
+            "attempts": []
+        },
+        "strategy": {
+            "id": "strategy",
+            "choice": "egoist",
+            "time": 8631,
+            "nClicks": 1,
+            "isCorrect": true,
+            "attempts": []
+        }
+    },
+    "missValues": [],
+    "isCorrect": true,
+    "freetext": "12",
+    "done": true,
+    "player": "149087040427700",
+    "stage": {
+        "stage": 4,
+        "step": 1,
+        "round": 1
+    },
+    "timestamp": 1574093358605
+}]
